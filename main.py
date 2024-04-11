@@ -1,4 +1,4 @@
-api='1909514811:AAGpdMusSYvLCJELu8Re_hkeoKee9cLCqSs'
+api='SUBHAM'
 
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters,CallbackContext
